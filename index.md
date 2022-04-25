@@ -1,5 +1,5 @@
 # Data Description
-	There will be two data sets for the copper and stainless steel samples that are necessary to determine the adhesion strength of the nickel coating for each material’s samples. 
+There will be two data sets for the copper and stainless steel samples that are necessary to determine the adhesion strength of the nickel coating for each material’s samples. 
 The first data set:
 •	Power density of the high power laser 
 •	Number of pulses fired for each sample 
